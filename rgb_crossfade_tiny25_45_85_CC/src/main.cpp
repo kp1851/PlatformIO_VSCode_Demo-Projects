@@ -42,7 +42,7 @@ void loop() {
       
       setColourRgb(rgbColour[0], rgbColour[1], rgbColour[2]);
       
-      delay(555);   //Speed
+      delay(100);   //Speed
     }
   }
 }
