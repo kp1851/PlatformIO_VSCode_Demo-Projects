@@ -74,7 +74,7 @@ for (int i=0; i<=360;i++){
   //Changing the delay() value in milliseconds will change how fast the
   //the light moves over the hue values 
 
-  delay(555);		//Speed
+  delay(100);		//Speed
 
   }
 
